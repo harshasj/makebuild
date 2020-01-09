@@ -9,5 +9,5 @@ void reverse() {
         n /= 10;
     }
     printf("Reversed number = %d", rev);
-//    return 0;
+ //   return 0;
 }
